@@ -8,7 +8,7 @@ staxel.item.crafting.BakingPowder.name=
 //TODO Translate [Reference] 'Used to bake food in an oven.'
 staxel.item.crafting.BakingTray.description=
 //TODO Translate [Reference] 'Baking Tray'
-staxel.item.crafting.BakingTray.name=
+staxel.item.crafting.BakingTray.name=焗盤
 //TODO Translate [Reference] 'They're fresh and plentiful.'
 staxel.item.crafting.Blueberries.description=
 //TODO Translate [Reference] 'Blueberries'
@@ -32,7 +32,7 @@ staxel.item.crafting.BrownSugar.name=
 //TODO Translate [Reference] 'A multipurpose miracle product. Useful for many recipes!'
 staxel.item.crafting.Butter.description=
 //TODO Translate [Reference] 'Butter'
-staxel.item.crafting.Butter.name=
+staxel.item.crafting.Butter.name=牛油
 staxel.item.crafting.Buttermilk.description=
 //TODO Translate [Reference] 'Buttermilk'
 staxel.item.crafting.Buttermilk.name=
@@ -137,11 +137,11 @@ staxel.item.crafting.ChoppedCorn.name=
 //TODO Translate [Reference] 'Chopped up cucumber.'
 staxel.item.crafting.ChoppedCucumber.description=
 //TODO Translate [Reference] 'Chopped Cucumber'
-staxel.item.crafting.ChoppedCucumber.name=
+staxel.item.crafting.ChoppedCucumber.name=青瓜块
 //TODO Translate [Reference] 'Chopped up dragonfruit.'
 staxel.item.crafting.ChoppedDragonfruit.description=
 //TODO Translate [Reference] 'Chopped Dragon Fruit'
-staxel.item.crafting.ChoppedDragonfruit.name=
+staxel.item.crafting.ChoppedDragonfruit.name=火龍果块
 //TODO Translate [Reference] 'Chopped up eggplant'
 staxel.item.crafting.ChoppedEggplant.description=
 //TODO Translate [Reference] 'Chopped Eggplant'
@@ -149,7 +149,7 @@ staxel.item.crafting.ChoppedEggplant.name=
 //TODO Translate [Reference] 'Chopped up kiwi.'
 staxel.item.crafting.ChoppedKiwi.description=
 //TODO Translate [Reference] 'Chopped Kiwi'
-staxel.item.crafting.ChoppedKiwi.name=
+staxel.item.crafting.ChoppedKiwi.name=奇异果块
 //TODO Translate [Reference] 'Chopped up lemon.'
 staxel.item.crafting.ChoppedLemon.description=
 //TODO Translate [Reference] 'Chopped Lemon'
